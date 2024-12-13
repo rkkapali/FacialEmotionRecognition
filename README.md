@@ -12,8 +12,8 @@ The system is evaluated on two datasets: the JAFFE dataset and the Cohn-Kanade (
 
 ## Project Structure
 - `facialrecog.ipynb`: The primary notebook containing the code for training and evaluating the models.
-- `jaffe/`: Folder containing the JAFFE dataset.
-- `ck/`: Folder containing the Cohn-Kanade dataset.
+- `JAFFE-[70,30](2).zip`: Folder containing the JAFFE dataset.
+- `CK_Dataset(3)`: Folder containing the Cohn-Kanade dataset.
 - `README.md`: This file, providing an overview of the project.
 
 ## How to Run
